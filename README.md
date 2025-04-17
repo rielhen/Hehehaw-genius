@@ -3,7 +3,9 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 
 ## Como funciona?
 O Gênio manda: Ele mostra uma sequência de cores.
+
 Você obedece: Repita a ordem corretamente!
+
 Seu grande desafio: A cada rodada, a sequência fica mais longa!
 
 ## Tecnologias e Habilidades Aplicadas:
