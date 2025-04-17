@@ -1,12 +1,12 @@
 # jogo-da-memoria-Genius
 Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa de luzes e sons — sua tarefa é repeti-la sem cometer erros.
 
-# Como funciona?
+## Como funciona?
 O Gênio manda: Ele mostra uma sequência de cores.
 Você obedece: Repita a ordem corretamente!
 Seu grande desafio: A cada rodada, a sequência fica mais longa!
 
-# Tecnologias e Habilidades Aplicadas:
+## Tecnologias e Habilidades Aplicadas:
 1. JavaScript & jQuery
 Lógica de Jogo: Implementação de algoritmos para geração de sequências aleatórias e validação de respostas.
 Manipulação do DOM: Uso de seletores jQuery para criar interações dinâmicas (animações, eventos de clique).
@@ -22,4 +22,4 @@ Raciocínio lógico: Ao criar e implementar a lógica de jogo, gerenciar a sequ�
 Resolução de problemas: Identificação e resolução de problemas com a interação entre animações, sons e a sequência de jogo.
 Autodidatismo: Pesquisa e implementação de recursos.
 
-### E ai, Será que você consegue bater uma sequência maior que 13? 💡
+#### E ai, Será que você consegue bater uma sequência maior que 13? 💡
