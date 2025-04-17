@@ -10,6 +10,7 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 
 ## Tecnologias e Habilidades Aplicadas:
 **1. JavaScript & jQuery**
+
 **Lógica de Jogo:** Implementação de algoritmos para geração de sequências aleatórias e validação de respostas.
 
 **Manipulação do DOM:** Uso de seletores jQuery para criar interações dinâmicas (animações, eventos de clique).
@@ -17,7 +18,9 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 **Gestão de Estados:** Controle de fluxo do jogo com variáveis e funções.
 
 
+
 **2. CSS3 & HTML**
+
 **Animações:** Feedback visual ao pressionar botões e criação da estrutura.
 
 **UX/UI:** Indicadores de acerto/erro e criação de interface limpa e intuitiva.
@@ -25,7 +28,9 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 **Feedback visual e sonoro:** Utilização de animações e sons para fornecer feedback instantâneo aos jogadores sobre suas ações e progresso.
 
 
+
 **3.Soft Skills**
+
 **Raciocínio lógico:** Ao criar e implementar a lógica de jogo, gerenciar a sequência de ações e manipular entradas do jogador de forma eficiente.
 
 **Resolução de problemas:** Identificação e resolução de problemas com a interação entre animações, sons e a sequência de jogo.
