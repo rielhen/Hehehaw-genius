@@ -22,4 +22,4 @@ Raciocínio lógico: Ao criar e implementar a lógica de jogo, gerenciar a sequ�
 Resolução de problemas: Identificação e resolução de problemas com a interação entre animações, sons e a sequência de jogo.
 Autodidatismo: Pesquisa e implementação de recursos.
 
-# E ai, Será que você consegue bater uma sequência maior que 13? 💡
+### E ai, Será que você consegue bater uma sequência maior que 13? 💡
