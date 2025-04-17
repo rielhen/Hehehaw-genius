@@ -137,7 +137,7 @@ var erro = new Audio("./audios/errado.mp3");
 erro.play();
 
 
-$("h1").text("Você errou! Pontuação Final: "+ sequencia.length+ " Pressione A para começar");
+$("h1").text("Você errou!<br> Pontuação Final: "+ sequencia.length+ "<br> Pressione A para começar");
 
 // reseta o jogo
 indiceJogador = 0;
