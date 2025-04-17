@@ -9,7 +9,7 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 **Seu grande desafio:** A cada rodada, a sequência fica mais longa!
 
 ## Tecnologias e Habilidades Aplicadas:
-**1. JavaScript & jQuery**
+#### **1. JavaScript & jQuery**
 
 **Lógica de Jogo:** Implementação de algoritmos para geração de sequências aleatórias e validação de respostas.
 
@@ -19,7 +19,7 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 
 
 
-**2. CSS3 & HTML**
+#### **2. CSS3 & HTML**
 
 **Animações:** Feedback visual ao pressionar botões e criação da estrutura.
 
@@ -29,7 +29,7 @@ Teste sua memória enquanto o jogo reproduz uma sequência cada vez mais longa d
 
 
 
-**3.Soft Skills**
+#### **3.Soft Skills**
 
 **Raciocínio lógico:** Ao criar e implementar a lógica de jogo, gerenciar a sequência de ações e manipular entradas do jogador de forma eficiente.
 
